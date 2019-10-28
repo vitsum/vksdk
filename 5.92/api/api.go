@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/SevereCloud/vksdk/5.92/object"
+	"github.com/vitsum/vksdk/5.92/object"
 )
 
 const (
