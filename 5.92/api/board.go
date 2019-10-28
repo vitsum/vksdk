@@ -1,7 +1,7 @@
-package api // import "github.com/SevereCloud/vksdk/5.92/api"
+package api // import "github.com/vitsum/vksdk/5.92/api"
 
 import (
-	"github.com/SevereCloud/vksdk/5.92/object"
+	"github.com/vitsum/vksdk/5.92/object"
 )
 
 // BoardAddTopic creates a new topic on a community's discussion board.
